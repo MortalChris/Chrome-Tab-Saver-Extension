@@ -6,15 +6,15 @@ after you have closed out of the extension and is gone only by clickling the del
 
 ## Skills/Concepts learned
 
--Const
--addEventListener()
--innerHTML
--input.value
--function parameters
--template strings
--localStorage
--The JSON object
--Objects in arrays
+<li>Const</li>
+<li>addEventListener()</li>
+<li>innerHTML</li>
+<li>input.value</li>
+<li>function parameters</li>
+<li>template strings</li>
+<li>localStorage</li>
+<li>The JSON object</li>
+<li>Objects in arrays</li>
 
 ## Scrimba Course
 
