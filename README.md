@@ -1,21 +1,22 @@
 # Chrome Tab Saver
-Saves tab and inputed text into a list
 
+This is a chrome extension that allows the user to saves tabs by either inputing text or
+by accessing the current tab and storing them into an unordered list. The list is saved even
+after you have closed out of the extension and is gone only by clickling the delete button twice.
 
+## Skills/Concepts learned
 
+-Const
+-addEventListener()
+-innerHTML
+-input.value
+-function parameters
+-template strings
+-localStorage
+-The JSON object
+-Objects in arrays
 
+## Scrimba Course
 
-## Supporting Scrimba
+https://scrimba.com/playlist/pPD7Kt4
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
-
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
