@@ -1,4 +1,9 @@
-# title(){return this.options.title||this.options.name}
+# Chrome Tab Saver
+Saves tab and inputed text into a list
+
+
+
+
 
 ## Supporting Scrimba
 
