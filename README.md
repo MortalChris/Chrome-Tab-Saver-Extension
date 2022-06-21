@@ -1,7 +1,7 @@
 # Chrome Tab Saver
 
-This is a chrome extension that allows the user to saves tabs by either inputing text or <br>
-by accessing the current tab and storing them into an unordered list. The list is saved even <br>
+This is a chrome extension that allows the user to saves tabs by either inputing text or 
+by accessing the current tab and storing them into an unordered list. The list is saved even 
 after you have closed out of the extension and is gone only by clickling the delete button twice.
 
 ## Skills/Concepts learned
